@@ -16,17 +16,11 @@ Telefono varchar(100)
 )
 ```
 
-## First steps
+LUIS FELIPE HOYOS LONDOÑO
 
-### How to create a clean mysql schemma (dev environment)
-#### delete old schemma
-```mysqladmin -uroot drop creditcard_purchase_dev -f```
-#### create new schemma
-```mysql -uroot -e "CREATE DATABASE creditcard_purchase_dev CHARACTER SET utf8 COLLATE utf8_general_ci;"```
-#### Create tables
-Check the following [src/api/storages/schema/schema.sql](src/api/storages/schema/schema.sql)
+PLATAFORMAS DE DESARROLLO DE SOFTWARE
+SEMANA 3
 
-## Questions
+PROFESOR: FRANK JAIRO CASTILLO PADILLA
 
-* [credits-backend-10@mercadolibre.com](credits-backend-10@mercadolibre.com)
-* [credits_backend@mercadolibre.com](credits_backend@mercadolibre.com)
+08-Febrero-2023
